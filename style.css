@@ -11,6 +11,10 @@ nav {
   text-align: center;
 }
 
+a {
+  text-decoration: none;
+}
+
 li,
 h1,
 ul {
@@ -29,7 +33,6 @@ li:hover {
 }
 .toplinks {
   margin-left: 90%;
-  
 }
 
 input {
